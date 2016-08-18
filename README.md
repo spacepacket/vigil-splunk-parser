@@ -1,2 +1,2 @@
-# insnort
-Snort Integration into Savvius Insight Network Appliance
+# Vigil Splunk Parser
+A Logstash based solution to pull and convert Splunk events into Savvius Vigil events 
